@@ -1,8 +1,8 @@
-##Daily Report
+#Daily Report
 
-#Date: July 27, 2020
+##Date: July 27, 2020
 
-#Day : 1
+##Day : 1
 
 In first day From the given resources like presentation slides and external links also I have covered all the topics like :
 
